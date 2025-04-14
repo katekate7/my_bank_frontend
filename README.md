@@ -93,4 +93,3 @@ Recherches internet :
 https://symfony.com/doc/current/setup.html
 https://symfony.com/doc/current/security.html
 https://symfony.com/doc/current/doctrine.html
-# my_bank_frontend
